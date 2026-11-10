@@ -82,5 +82,40 @@
     "note": "First public version of my Adoption Day app."
    }
   ]
+ },
+ "my_brief": {
+  "sha": "bcc3846e5381210e279ad1171690c544a670471a",
+  "entry": "module_08/app.md",
+  "files": [
+   "module_08/app.md",
+   "module_08/welcome.md",
+   "module_08/zim.yaml",
+   "module_08/pitch.yaml",
+   "module_08/map.md",
+   "module_08/features.yaml",
+   "module_01/cv.md"
+  ],
+  "by": "demitrip22",
+  "engine": "6c42556",
+  "at": "2026-11-10T05:42:51.973Z",
+  "history": [
+   {
+    "sha": "bcc3846e5381210e279ad1171690c544a670471a",
+    "at": "2026-11-10T05:42:51.973Z",
+    "entry": "module_08/app.md",
+    "engine": "6c42556",
+    "parts": [
+     "import",
+     "persona",
+     "pitch",
+     "runner",
+     "dataset",
+     "datagrid",
+     "tabs"
+    ],
+    "todo": 0,
+    "note": "app"
+   }
+  ]
  }
 }
